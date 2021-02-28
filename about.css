@@ -1,0 +1,47 @@
+body{
+    background-color:powderblue;
+}
+h2{
+    text-align: center;
+    color: black;
+}
+h3{
+    text-align: center;   
+}
+h4{
+    text-align: center;
+    color:tan;
+}
+
+table{
+    
+    border-collapse: collapse;
+    width: 100%; 
+}
+td, th {
+    border: 2px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  div{
+      margin-left: 10px;
+  }
+ img{
+    height:200px;
+    width:200px;
+    margin-right: 4px;
+ 
+ }
+  /* #header{
+     margin-left:35px;
+     
+ }  */
+ .name{
+    margin-left: 30px;
+    text-align: left;
+  }
+  .container{
+      background-color:rgb(250, 240, 222);
+      
+  }
+  
